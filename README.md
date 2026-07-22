@@ -6,7 +6,7 @@
 
 Welcome to my AI Automation Portfolio.
 
-I build workflow automations using **n8n**, **OpenAI**, **Google Sheets**, **Gmail**, and API integrations to help businesses automate repetitive tasks, improve productivity, and save time.
+I build workflow automations using **n8n**, **OpenAI**, **Claude AI**, **Google Sheets**, **Gmail**, and API integrations to help businesses automate repetitive tasks, improve productivity, and save time.
 
 ---
 
