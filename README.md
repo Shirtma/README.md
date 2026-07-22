@@ -1,48 +1,78 @@
-# Hi, I'm Shirtma 👋
+# Hi, I'm Joseph Christian 👋
 
 ## AI Automation Builder | Founder of Joeka
 
-I'm building AI-powered automation solutions using **n8n**, **OpenAI**, **Google Workspace**, and business integrations.
+# AI Automation Portfolio
 
-### 🚀 Current Focus
-- Building my AI Automation Portfolio
-- Creating automation workflows for businesses
-- Growing Joeka, my fashion brand
-- Preparing for global fellowships, accelerators, and startup opportunities
+Welcome to my AI Automation Portfolio.
 
-### 🛠 Tech Stack
+I build workflow automations using **n8n**, **OpenAI**, **Google Sheets**, **Gmail**, and API integrations to help businesses automate repetitive tasks, improve productivity, and save time.
+
+---
+
+## Skills
+
+- n8n Workflow Automation
+- OpenAI API Integration
+- Gmail Automation
+- Google Sheets Automation
+- REST API Integration
+- AI Content Automation
+- AI Email Automation
+- Workflow Debugging
+- Data Mapping
+
+---
+
+# Projects
+
+## 1. AI Email Assistant
+
+### Overview
+An AI-powered email automation workflow that generates professional email responses using OpenAI and sends them through Gmail.
+
+### Tech Stack
 - n8n
-- OpenAI API
-- Google Sheets
+- OpenAI
 - Gmail
-- Webhooks
-- GitHub
 
-### 📂 Current Projects
-- AI Email Assistant
-- AI Content Generator
-- Lead Capture Automation
-- Joeka Customer Assistant (Coming Soon)
+### Status
+✅ Completed
 
-### 📈 2026 Goals
-- Build 10 portfolio-quality AI automation projects
-- Help businesses automate repetitive tasks
-- Grow Joeka into an international brand
-- Secure opportunities through fellowships and startup programs
+---
 
-> "Building solutions one workflow at a time."
+## 2. Joeka AI Content Generator
 
-<!--
-**Shirtma/Shirtma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Overview
+An AI-powered workflow that generates social media content ideas and automatically stores them in Google Sheets.
 
-Here are some ideas to get you started:
+### Tech Stack
+- n8n
+- OpenAI
+- Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Status
+✅ Completed
+
+---
+
+## Current Learning Journey
+
+I am continuously building practical AI automation workflows focused on solving real business problems.
+
+Upcoming projects include:
+
+- AI Lead Capture System
+- AI CRM Automation
+- AI WhatsApp Assistant
+- AI Customer Support Agent
+- AI Invoice Processing
+- AI Sales Pipeline Automation
+
+---
+
+## Contact
+
+I am actively building my AI Automation portfolio and open to collaborating on workflow automation projects.
+
+Thank you for visiting my portfolio!
